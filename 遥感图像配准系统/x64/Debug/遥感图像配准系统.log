@@ -1,0 +1,104 @@
+﻿生成启动时间为 2018/1/14 15:16:08。
+     1>项目“D:\源码4.0\源码4.0.0.1\遥感图像配准系统\遥感图像配准系统.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs2015\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"x64\Debug\遥感图像配准系统.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt ChildFrm.cpp DlgAftReg.cpp DlgCor.cpp DlgEnhance.cpp DlgReg.cpp MainFrm.cpp RSIDoc.cpp RSIView.cpp "遥感图像配准系统.cpp"
+         ChildFrm.cpp
+     1>d:\源码4.0\源码4.0.0.1\遥感图像配准系统\CDib.h(5): warning C4005: “WIDTHBYTES”: 宏重定义
+         d:\源码4.0\源码4.0.0.1\遥感图像配准系统\CDibt.h(12): note: 参见“WIDTHBYTES”的前一个定义
+     1>d:\vs2015\opencv2.4.4\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+         DlgAftReg.cpp
+     1>d:\源码4.0\源码4.0.0.1\遥感图像配准系统\CDib.h(5): warning C4005: “WIDTHBYTES”: 宏重定义
+         d:\源码4.0\源码4.0.0.1\遥感图像配准系统\CDibt.h(12): note: 参见“WIDTHBYTES”的前一个定义
+     1>d:\vs2015\opencv2.4.4\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+         DlgCor.cpp
+     1>d:\源码4.0\源码4.0.0.1\遥感图像配准系统\CDib.h(5): warning C4005: “WIDTHBYTES”: 宏重定义
+         d:\源码4.0\源码4.0.0.1\遥感图像配准系统\CDibt.h(12): note: 参见“WIDTHBYTES”的前一个定义
+     1>d:\vs2015\opencv2.4.4\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+     1>DlgCor.cpp(534): warning C4018: “<”: 有符号/无符号不匹配
+     1>DlgCor.cpp(536): warning C4018: “<”: 有符号/无符号不匹配
+     1>DlgCor.cpp(538): warning C4244: “=”: 从“WORD”转换到“BYTE”，可能丢失数据
+     1>DlgCor.cpp(541): warning C4018: “<”: 有符号/无符号不匹配
+     1>DlgCor.cpp(582): warning C4244: “=”: 从“WORD”转换到“unsigned char”，可能丢失数据
+     1>DlgCor.cpp(643): warning C4244: “=”: 从“WORD”转换到“unsigned char”，可能丢失数据
+     1>DlgCor.cpp(644): warning C4244: “=”: 从“WORD”转换到“unsigned char”，可能丢失数据
+     1>DlgCor.cpp(645): warning C4244: “=”: 从“WORD”转换到“unsigned char”，可能丢失数据
+         DlgEnhance.cpp
+     1>d:\源码4.0\源码4.0.0.1\遥感图像配准系统\CDib.h(5): warning C4005: “WIDTHBYTES”: 宏重定义
+         d:\源码4.0\源码4.0.0.1\遥感图像配准系统\CDibt.h(12): note: 参见“WIDTHBYTES”的前一个定义
+     1>d:\vs2015\opencv2.4.4\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+         DlgReg.cpp
+     1>d:\源码4.0\源码4.0.0.1\遥感图像配准系统\CDib.h(5): warning C4005: “WIDTHBYTES”: 宏重定义
+         d:\源码4.0\源码4.0.0.1\遥感图像配准系统\CDibt.h(12): note: 参见“WIDTHBYTES”的前一个定义
+     1>d:\vs2015\opencv2.4.4\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+     1>DlgReg.cpp(467): warning C4129: “m”: 不可识别的字符转义序列
+     1>DlgReg.cpp(546): warning C4018: “<”: 有符号/无符号不匹配
+     1>DlgReg.cpp(548): warning C4018: “<”: 有符号/无符号不匹配
+     1>DlgReg.cpp(550): warning C4244: “=”: 从“WORD”转换到“BYTE”，可能丢失数据
+     1>DlgReg.cpp(553): warning C4018: “<”: 有符号/无符号不匹配
+     1>DlgReg.cpp(594): warning C4244: “=”: 从“WORD”转换到“unsigned char”，可能丢失数据
+     1>DlgReg.cpp(655): warning C4244: “=”: 从“WORD”转换到“unsigned char”，可能丢失数据
+     1>DlgReg.cpp(656): warning C4244: “=”: 从“WORD”转换到“unsigned char”，可能丢失数据
+     1>DlgReg.cpp(657): warning C4244: “=”: 从“WORD”转换到“unsigned char”，可能丢失数据
+         MainFrm.cpp
+     1>d:\源码4.0\源码4.0.0.1\遥感图像配准系统\CDib.h(5): warning C4005: “WIDTHBYTES”: 宏重定义
+         d:\源码4.0\源码4.0.0.1\遥感图像配准系统\CDibt.h(12): note: 参见“WIDTHBYTES”的前一个定义
+     1>d:\vs2015\opencv2.4.4\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+         RSIDoc.cpp
+     1>d:\源码4.0\源码4.0.0.1\遥感图像配准系统\CDib.h(5): warning C4005: “WIDTHBYTES”: 宏重定义
+         d:\源码4.0\源码4.0.0.1\遥感图像配准系统\CDibt.h(12): note: 参见“WIDTHBYTES”的前一个定义
+     1>d:\vs2015\opencv2.4.4\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+     1>RSIDoc.cpp(304): warning C4018: “<”: 有符号/无符号不匹配
+     1>RSIDoc.cpp(306): warning C4018: “<”: 有符号/无符号不匹配
+     1>RSIDoc.cpp(308): warning C4244: “=”: 从“WORD”转换到“BYTE”，可能丢失数据
+     1>RSIDoc.cpp(311): warning C4018: “<”: 有符号/无符号不匹配
+     1>RSIDoc.cpp(352): warning C4244: “=”: 从“WORD”转换到“unsigned char”，可能丢失数据
+     1>RSIDoc.cpp(413): warning C4244: “=”: 从“WORD”转换到“unsigned char”，可能丢失数据
+     1>RSIDoc.cpp(414): warning C4244: “=”: 从“WORD”转换到“unsigned char”，可能丢失数据
+     1>RSIDoc.cpp(415): warning C4244: “=”: 从“WORD”转换到“unsigned char”，可能丢失数据
+         RSIView.cpp
+     1>d:\源码4.0\源码4.0.0.1\遥感图像配准系统\CDib.h(5): warning C4005: “WIDTHBYTES”: 宏重定义
+         d:\源码4.0\源码4.0.0.1\遥感图像配准系统\CDibt.h(12): note: 参见“WIDTHBYTES”的前一个定义
+     1>d:\vs2015\opencv2.4.4\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+         遥感图像配准系统.cpp
+     1>d:\源码4.0\源码4.0.0.1\遥感图像配准系统\CDib.h(5): warning C4005: “WIDTHBYTES”: 宏重定义
+         d:\源码4.0\源码4.0.0.1\遥感图像配准系统\CDibt.h(12): note: 参见“WIDTHBYTES”的前一个定义
+     1>d:\vs2015\opencv2.4.4\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+     1>遥感图像配准系统.cpp(64): warning C4996: 'CWinApp::Enable3dControls': CWinApp::Enable3dControls is no longer needed. You should remove this call.
+         D:\vs2015\VC\atlmfc\include\afxwin.h(5224): note: 参见“CWinApp::Enable3dControls”的声明
+         正在生成代码...
+       Link:
+         D:\vs2015\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\源码4.0\源码4.0.0.1\x64\Debug\遥感图像配准系统.exe" /INCREMENTAL:NO /NOLOGO gdal_i.lib opencv_calib3d246.lib opencv_contrib246.lib opencv_core246.lib opencv_features2d246.lib opencv_flann246.lib opencv_gpu246.lib opencv_haartraining_engine.lib opencv_highgui246.lib opencv_imgproc246.lib opencv_legacy246.lib opencv_ml246.lib opencv_nonfree246.lib opencv_objdetect246.lib opencv_ocl246.lib opencv_photo246.lib opencv_stitching246.lib opencv_superres246.lib opencv_ts246.lib opencv_video246.lib opencv_videostab246.lib gdal_i.lib opencv_calib3d246.lib opencv_contrib246.lib opencv_core246.lib opencv_features2d246.lib opencv_flann246.lib opencv_gpu246.lib opencv_haartraining_engine.lib opencv_highgui246.lib opencv_imgproc246.lib opencv_legacy246.lib opencv_ml246.lib opencv_nonfree246.lib opencv_objdetect246.lib opencv_ocl246.lib opencv_photo246.lib opencv_stitching246.lib opencv_superres246.lib opencv_ts246.lib opencv_video246.lib opencv_videostab246.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:D:\vs2015\VC\Include\Manifest\dpiaware.manifest /Debug /PDB:"D:\源码4.0\源码4.0.0.1\x64\Debug\遥感图像配准系统.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"D:\源码4.0\源码4.0.0.1\x64\Debug\遥感图像配准系统.lib" /MACHINE:X64 "x64\Debug\遥感图像配准系统.res"
+         x64\Debug\cdib.obj
+         x64\Debug\CDibt.obj
+         x64\Debug\CGISImage.obj
+         x64\Debug\ChildFrm.obj
+         x64\Debug\Chooseband.obj
+         x64\Debug\DIBPrcs.obj
+         x64\Debug\DibShow.obj
+         x64\Debug\DlgAftReg.obj
+         x64\Debug\DlgCor.obj
+         x64\Debug\DlgEnhance.obj
+         x64\Debug\DlgReg.obj
+         x64\Debug\MainFrm.obj
+         x64\Debug\MyCpoint.obj
+         x64\Debug\RSIDoc.obj
+         x64\Debug\RSIView.obj
+         x64\Debug\stdafx.obj
+         "x64\Debug\遥感图像配准系统.obj"
+           正在创建库 D:\源码4.0\源码4.0.0.1\x64\Debug\遥感图像配准系统.lib 和对象 D:\源码4.0\源码4.0.0.1\x64\Debug\遥感图像配准系统.exp
+     1>LINK : warning LNK4232: 名称 遥感图像配准系统.exe 包含非 ASCII 字符，在具有除 936 以外的 ANSI 代码页的系统上可能不能加载 DLL
+         遥感图像配准系统.vcxproj -> D:\源码4.0\源码4.0.0.1\x64\Debug\遥感图像配准系统.exe
+     1>已完成生成项目“D:\源码4.0\源码4.0.0.1\遥感图像配准系统\遥感图像配准系统.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:14.59

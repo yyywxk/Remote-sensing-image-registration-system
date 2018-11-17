@@ -1,0 +1,21 @@
+﻿  stdafx.cpp
+F:\vs2015\VC\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+  F:\vs2015\VC\atlmfc\include\afx.h(33): note: 参见“MBCS_Support_Deprecated_In_MFC”的声明
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  cdib.cpp
+cdib.cpp(1161): warning C4244: “=”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+cdib.cpp(1168): warning C4244: “=”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+  ChildFrm.cpp
+  DIBPrcs.cpp
+  DibShow.cpp
+  DlgAftReg.cpp
+  DlgCor.cpp
+  DlgEnhance.cpp
+  DlgReg.cpp
+  MainFrm.cpp
+  RSIDoc.cpp
+  RSIView.cpp
+RSIView.cpp(13): fatal error C1083: 无法打开包括文件: “gdal_priv.h”: No such file or directory
+  遥感图像配准系统.cpp
+遥感图像配准系统.cpp(60): warning C4996: 'CWinApp::Enable3dControls': CWinApp::Enable3dControls is no longer needed. You should remove this call.
+  F:\vs2015\VC\atlmfc\include\afxwin2.inl(1074): note: 参见“CWinApp::Enable3dControls”的声明

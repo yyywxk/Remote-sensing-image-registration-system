@@ -1,0 +1,10 @@
+﻿  Chooseband.cpp
+    正在创建库 F:\学习\课设\第07章_遥感图像配准系统\源码5.1\x64\Release\遥感图像配准系统.lib 和对象 F:\学习\课设\第07章_遥感图像配准系统\源码5.1\x64\Release\遥感图像配准系统.exp
+LINK : warning LNK4232: 名称 遥感图像配准系统.exe 包含非 ASCII 字符，在具有除 936 以外的 ANSI 代码页的系统上可能不能加载 DLL
+  正在生成代码
+  49 of 1432 functions ( 3.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    19 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  遥感图像配准系统.vcxproj -> F:\学习\课设\第07章_遥感图像配准系统\源码5.1\x64\Release\遥感图像配准系统.exe
+  遥感图像配准系统.vcxproj -> F:\学习\课设\第07章_遥感图像配准系统\源码5.1\x64\Release\遥感图像配准系统.pdb (Full PDB)
